@@ -24,13 +24,12 @@ main = hakyll $ do
     match "index.md" $ do
         route $ setExtension "html"
         compile $ do
-            posts <- recentFirst =<< loadAll "posts/*"
             let indexCtx =
-                    listField "posts" postCtx (return posts) `mappend`
                     constField "title" "Home"                `mappend`
                     defaultContext
 
             getResourceBody
+                >> pandocCompiler
                 >>= applyAsTemplate indexCtx
                 >>= loadAndApplyTemplate "templates/default.html" indexCtx
                 >>= relativizeUrls
