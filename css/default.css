@@ -1,18 +1,26 @@
 body {
     color: black;
     font-size: 16px;
-    margin: 0px auto 0px auto;
-    width: 600px;
+    margin: 0px;
+}
+
+div#header, div#footer {
+    min-width: 100%;
+    padding: 30px 0px;
 }
 
 div#header {
-    border-bottom: 2px solid black;
-    margin-bottom: 30px;
-    padding: 12px 0px 12px 0px;
+    background: linear-gradient(to right, #19111f 0%, #2c1e37 100%);
+    color: white;
+}
+
+div.content {
+    margin: 0px auto;
+    max-width: 960px;
 }
 
 div#logo a {
-    color: black;
+    color: white;
     float: left;
     font-size: 18px;
     font-weight: bold;
@@ -24,20 +32,20 @@ div#header #navigation {
 }
 
 div#header #navigation a {
-    color: black;
+    color: white;
     font-size: 18px;
+    font-variant: small-caps;
     font-weight: bold;
     margin-left: 12px;
     text-decoration: none;
-    text-transform: uppercase;
+}
+
+div#content p {
+    text-align: justify;
 }
 
 div#footer {
-    border-top: solid 2px black;
-    color: #555;
     font-size: 12px;
-    margin-top: 30px;
-    padding: 12px 0px 12px 0px;
     text-align: right;
 }
 
