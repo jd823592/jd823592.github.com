@@ -24,6 +24,7 @@ title: Home
 8. Lange et al. [IC3 Model Checking on Control Flow Automata](http://www-i2.informatik.rwth-aachen.de/pub/index.php?type=download&pub_id=1161).
 9. Dillig et al. [Fluid Updates: Beyond Strong vs. Weak Updates](http://dx.doi.org/10.1007/978-3-642-11957-6_14).
 10. Dillig et al. [Precise Reasoning for Programs Using Containers](http://doi.acm.org/10.1145/1926385.1926407).
+11. Monniaux et al. [A Simple Abstraction of Arrays and Maps by Program Translation](http://dx.doi.org/10.1007/978-3-662-48288-9_13)
 
 #### Liveness
 
