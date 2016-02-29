@@ -6,11 +6,12 @@ title: Home
 
 #### Theory
 
-1. Bradley et al. [What's Decidable about Arrays?](http://dx.doi.org/10.1007/11609773_28)
-2. Furia. [What's Decidable about Sequences?](http://dx.doi.org/10.1007/978-3-642-15643-4_11)
+1. Bradley et al. [What's Decidable about Arrays?](http://dx.doi.org/10.1007/11609773_28).
+2. Furia. [What's Decidable about Sequences?](http://dx.doi.org/10.1007/978-3-642-15643-4_11).
 3. Bradley. [The Calculus of Computation - Decision Procedures with Application to Verification](http://dx.doi.org/10.1007/978-3-540-74113-8).
 4. Kuncak et al. [Building a Calculus of Data Structures](http://dx.doi.org/10.1007/978-3-642-11319-2_6).
 5. Kapur et al. [Interpolation for Data Structures](http://doi.acm.org/10.1145/1181775.1181789).
+6. Padon et al. [Decidability of Inferring Inductive Invariants](http://doi.acm.org/10.1145/2837614.2837640).
 
 #### Safety
 
@@ -24,7 +25,7 @@ title: Home
 8. Lange et al. [IC3 Model Checking on Control Flow Automata](http://www-i2.informatik.rwth-aachen.de/pub/index.php?type=download&pub_id=1161).
 9. Dillig et al. [Fluid Updates: Beyond Strong vs. Weak Updates](http://dx.doi.org/10.1007/978-3-642-11957-6_14).
 10. Dillig et al. [Precise Reasoning for Programs Using Containers](http://doi.acm.org/10.1145/1926385.1926407).
-11. Monniaux et al. [A Simple Abstraction of Arrays and Maps by Program Translation](http://dx.doi.org/10.1007/978-3-662-48288-9_13)
+11. Monniaux et al. [A Simple Abstraction of Arrays and Maps by Program Translation](http://dx.doi.org/10.1007/978-3-662-48288-9_13).
 
 #### Liveness
 
