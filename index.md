@@ -37,4 +37,4 @@ title: Home
 #### Custom
 
 1. Awodey. [Category Theory](http://www.mpi-sws.org/~dreyer/courses/catlogic/awodey.pdf).
-2. Huges. [Monad Transformers for Backtracking Search](http://arxiv.org/pdf/1406.2058v1.pdf).
+2. Hedges. [Monad Transformers for Backtracking Search](http://arxiv.org/pdf/1406.2058v1.pdf).
