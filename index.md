@@ -38,3 +38,5 @@ title: Home
 
 1. Awodey. [Category Theory](http://www.mpi-sws.org/~dreyer/courses/catlogic/awodey.pdf).
 2. Hedges. [Monad Transformers for Backtracking Search](http://arxiv.org/pdf/1406.2058v1.pdf).
+3. Wadler et al. [Monadic Constraint Programming](http://dx.doi.org/doi:10.1017/S0956796809990086).
+4. Wadler. [Propositions as Types](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf).
