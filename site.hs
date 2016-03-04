@@ -25,7 +25,7 @@ main = hakyll $ do
         route $ setExtension "html"
         compile $ do
             let indexCtx =
-                    constField "title" "Home"                `mappend`
+                    constField "title" "Home" `mappend`
                     defaultContext
 
             pandocCompiler
