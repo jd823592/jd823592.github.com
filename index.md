@@ -27,6 +27,7 @@ title: Home
 10. Dillig et al. [Precise Reasoning for Programs Using Containers](http://doi.acm.org/10.1145/1926385.1926407).
 11. Monniaux et al. [A Simple Abstraction of Arrays and Maps by Program Translation](http://dx.doi.org/10.1007/978-3-662-48288-9_13).
 12. Piskac et al. [GRASShopper - Complete Heap Verification with Mixed Specifications](http://dx.doi.org/10.1007/978-3-642-54862-8_9).
+13. Rinetzky et al. [Property Directed Abstract Interpretation](http://dx.doi.org/10.1007/978-3-662-49122-5_5).
 
 #### Liveness
 
