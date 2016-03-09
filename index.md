@@ -28,6 +28,8 @@ title: Home
 11. Monniaux et al. [A Simple Abstraction of Arrays and Maps by Program Translation](http://dx.doi.org/10.1007/978-3-662-48288-9_13).
 12. Piskac et al. [GRASShopper - Complete Heap Verification with Mixed Specifications](http://dx.doi.org/10.1007/978-3-642-54862-8_9).
 13. Rinetzky et al. [Property Directed Abstract Interpretation](http://dx.doi.org/10.1007/978-3-662-49122-5_5).
+14. Komuravelli et al. [SMT-Based Model Checking for Recursive Programs](http://dx.doi.org/10.1007/978-3-319-08867-9_2).
+15. Vizel et al. [Fast Interpolating BMC](http://dx.doi.org/10.1007/978-3-319-21690-4_43).
 
 #### Liveness
 
